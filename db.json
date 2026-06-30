@@ -1,0 +1,5004 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "title": "عدم نمایش صحیح دکمه ورود #1",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-07-21",
+      "createdAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "مشکل در نمایش موبایل #2",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "خطا در مسیریابی #3",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-08-01",
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "مشکل در فیلتر لیست #4",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-17",
+      "createdAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "خطا در مسیریابی #5",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-31",
+      "createdAt": "2026-08-13T00:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "مشکل در نمایش موبایل #6",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "حسین",
+      "dueDate": "2026-07-17",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "عدم بروزرسانی اعلان‌ها #7",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-27",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "خطا در بارگذاری پروفایل #8",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "عدم بروزرسانی اعلان‌ها #9",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-04T00:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "بهبود صفحه داشبورد #10",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-23",
+      "createdAt": "2026-07-19T00:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "عدم بروزرسانی اعلان‌ها #11",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-09-21",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "کندی جستجوی کاربران #12",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-17",
+      "createdAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": 13,
+      "title": "عدم نمایش صحیح دکمه ورود #13",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "خطا در مسیریابی #14",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 15,
+      "title": "بهبود صفحه داشبورد #15",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-04",
+      "createdAt": "2026-08-11T00:00:00Z"
+    },
+    {
+      "id": 16,
+      "title": "خطا در بارگذاری پروفایل #16",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": 17,
+      "title": "عدم بروزرسانی اعلان‌ها #17",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-09-18",
+      "createdAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": 18,
+      "title": "بهبود عملکرد جدول #18",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-07-16",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 19,
+      "title": "کندی جستجوی کاربران #19",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-06",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 20,
+      "title": "بهبود صفحه داشبورد #20",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-14",
+      "createdAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": 21,
+      "title": "مشکل در نمایش موبایل #21",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-23",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 22,
+      "title": "مشکل در نمایش موبایل #22",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-24",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 23,
+      "title": "کندی جستجوی کاربران #23",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "سارا",
+      "dueDate": "2026-08-26",
+      "createdAt": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": 24,
+      "title": "عدم نمایش صحیح دکمه ورود #24",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-06",
+      "createdAt": "2026-07-23T00:00:00Z"
+    },
+    {
+      "id": 25,
+      "title": "مشکل در فیلتر لیست #25",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "حسین",
+      "dueDate": "2026-07-26",
+      "createdAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": 26,
+      "title": "خطا در بارگذاری پروفایل #26",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-04",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 27,
+      "title": "خطای اعتبارسنجی فرم #27",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 28,
+      "title": "عدم بروزرسانی اعلان‌ها #28",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-09-05",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 29,
+      "title": "بهبود صفحه داشبورد #29",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-09T00:00:00Z"
+    },
+    {
+      "id": 30,
+      "title": "خطا در مسیریابی #30",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-20",
+      "createdAt": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": 31,
+      "title": "بهبود صفحه داشبورد #31",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-09-04",
+      "createdAt": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 32,
+      "title": "خطای اعتبارسنجی فرم #32",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-21",
+      "createdAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": 33,
+      "title": "بهبود عملکرد جدول #33",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-02",
+      "createdAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": 34,
+      "title": "کندی جستجوی کاربران #34",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-23",
+      "createdAt": "2026-07-05T00:00:00Z"
+    },
+    {
+      "id": 35,
+      "title": "عدم بروزرسانی اعلان‌ها #35",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-22",
+      "createdAt": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": 36,
+      "title": "بهبود صفحه داشبورد #36",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "علی",
+      "dueDate": "2026-09-23",
+      "createdAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": 37,
+      "title": "مشکل در فیلتر لیست #37",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-29",
+      "createdAt": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": 38,
+      "title": "خطا در بارگذاری پروفایل #38",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-31",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 39,
+      "title": "مشکل در فیلتر لیست #39",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-08T00:00:00Z"
+    },
+    {
+      "id": 40,
+      "title": "خطای اعتبارسنجی فرم #40",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "نگار",
+      "dueDate": "2026-08-24",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 41,
+      "title": "مشکل در نمایش موبایل #41",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-09-22",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 42,
+      "title": "خطای اعتبارسنجی فرم #42",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-11",
+      "createdAt": "2026-08-13T00:00:00Z"
+    },
+    {
+      "id": 43,
+      "title": "مشکل در نمایش موبایل #43",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-23",
+      "createdAt": "2026-08-11T00:00:00Z"
+    },
+    {
+      "id": 44,
+      "title": "بهبود صفحه داشبورد #44",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": 45,
+      "title": "بهبود صفحه داشبورد #45",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-10",
+      "createdAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": 46,
+      "title": "بهبود عملکرد جدول #46",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-09-19",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 47,
+      "title": "خطا در بارگذاری پروفایل #47",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "علی",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": 48,
+      "title": "بهبود عملکرد جدول #48",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-06",
+      "createdAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": 49,
+      "title": "کندی جستجوی کاربران #49",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-07-05",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 50,
+      "title": "بهبود عملکرد جدول #50",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": 51,
+      "title": "مشکل در نمایش موبایل #51",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-07",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 52,
+      "title": "خطا در بارگذاری پروفایل #52",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": 53,
+      "title": "عدم بروزرسانی اعلان‌ها #53",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "علی",
+      "dueDate": "2026-07-18",
+      "createdAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": 54,
+      "title": "خطای اعتبارسنجی فرم #54",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-01",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 55,
+      "title": "خطا در بارگذاری پروفایل #55",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "نگار",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-31T00:00:00Z"
+    },
+    {
+      "id": 56,
+      "title": "خطای اعتبارسنجی فرم #56",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-10",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 57,
+      "title": "مشکل در فیلتر لیست #57",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-02",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 58,
+      "title": "خطا در مسیریابی #58",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-08",
+      "createdAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 59,
+      "title": "مشکل در نمایش موبایل #59",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-12",
+      "createdAt": "2026-07-26T00:00:00Z"
+    },
+    {
+      "id": 60,
+      "title": "مشکل در نمایش موبایل #60",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "نگار",
+      "dueDate": "2026-08-02",
+      "createdAt": "2026-07-04T00:00:00Z"
+    },
+    {
+      "id": 61,
+      "title": "مشکل در نمایش موبایل #61",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-07-26T00:00:00Z"
+    },
+    {
+      "id": 62,
+      "title": "خطای اعتبارسنجی فرم #62",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-07-23",
+      "createdAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": 63,
+      "title": "خطا در بارگذاری پروفایل #63",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-09-12",
+      "createdAt": "2026-08-13T00:00:00Z"
+    },
+    {
+      "id": 64,
+      "title": "بهبود صفحه داشبورد #64",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-14",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 65,
+      "title": "عدم بروزرسانی اعلان‌ها #65",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-09-10",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 66,
+      "title": "مشکل در نمایش موبایل #66",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "حسین",
+      "dueDate": "2026-09-12",
+      "createdAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": 67,
+      "title": "بهبود صفحه داشبورد #67",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-29",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 68,
+      "title": "عدم بروزرسانی اعلان‌ها #68",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 69,
+      "title": "خطای اعتبارسنجی فرم #69",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "رضا",
+      "dueDate": "2026-08-26",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 70,
+      "title": "کندی جستجوی کاربران #70",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": 71,
+      "title": "کندی جستجوی کاربران #71",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-17",
+      "createdAt": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 72,
+      "title": "مشکل در نمایش موبایل #72",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-19",
+      "createdAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "id": 73,
+      "title": "کندی جستجوی کاربران #73",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": 74,
+      "title": "عدم بروزرسانی اعلان‌ها #74",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-21",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 75,
+      "title": "مشکل در نمایش موبایل #75",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-26",
+      "createdAt": "2026-07-05T00:00:00Z"
+    },
+    {
+      "id": 76,
+      "title": "بهبود صفحه داشبورد #76",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-07-17",
+      "createdAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": 77,
+      "title": "خطا در بارگذاری پروفایل #77",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-09-13",
+      "createdAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": 78,
+      "title": "مشکل در فیلتر لیست #78",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-07-12",
+      "createdAt": "2026-07-05T00:00:00Z"
+    },
+    {
+      "id": 79,
+      "title": "مشکل در فیلتر لیست #79",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-03",
+      "createdAt": "2026-07-31T00:00:00Z"
+    },
+    {
+      "id": 80,
+      "title": "بهبود عملکرد جدول #80",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "علی",
+      "dueDate": "2026-08-26",
+      "createdAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "id": 81,
+      "title": "خطا در بارگذاری پروفایل #81",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 82,
+      "title": "مشکل در فیلتر لیست #82",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-08-01",
+      "createdAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": 83,
+      "title": "مشکل در نمایش موبایل #83",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-09-11",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 84,
+      "title": "خطای اعتبارسنجی فرم #84",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "حسین",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": 85,
+      "title": "بهبود عملکرد جدول #85",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-09-15",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 86,
+      "title": "عدم بروزرسانی اعلان‌ها #86",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-22",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 87,
+      "title": "مشکل در فیلتر لیست #87",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-09-02",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 88,
+      "title": "خطا در مسیریابی #88",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "علی",
+      "dueDate": "2026-08-22",
+      "createdAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": 89,
+      "title": "خطای اعتبارسنجی فرم #89",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-21",
+      "createdAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": 90,
+      "title": "بهبود صفحه داشبورد #90",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": 91,
+      "title": "مشکل در نمایش موبایل #91",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 92,
+      "title": "بهبود عملکرد جدول #92",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": 93,
+      "title": "بهبود عملکرد جدول #93",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-08-08T00:00:00Z"
+    },
+    {
+      "id": 94,
+      "title": "عدم نمایش صحیح دکمه ورود #94",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-07-05",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 95,
+      "title": "بهبود صفحه داشبورد #95",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-23",
+      "createdAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": 96,
+      "title": "بهبود عملکرد جدول #96",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "مریم",
+      "dueDate": "2026-07-19",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 97,
+      "title": "کندی جستجوی کاربران #97",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-08-13",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 98,
+      "title": "خطای اعتبارسنجی فرم #98",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "علی",
+      "dueDate": "2026-07-19",
+      "createdAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": 99,
+      "title": "بهبود عملکرد جدول #99",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-29",
+      "createdAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": 100,
+      "title": "خطا در بارگذاری پروفایل #100",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-02",
+      "createdAt": "2026-07-23T00:00:00Z"
+    },
+    {
+      "id": 101,
+      "title": "مشکل در فیلتر لیست #101",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-22",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 102,
+      "title": "بهبود صفحه داشبورد #102",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 103,
+      "title": "خطا در بارگذاری پروفایل #103",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-09-11",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 104,
+      "title": "عدم بروزرسانی اعلان‌ها #104",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-29",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 105,
+      "title": "عدم نمایش صحیح دکمه ورود #105",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-09-09",
+      "createdAt": "2026-08-14T00:00:00Z"
+    },
+    {
+      "id": 106,
+      "title": "خطای اعتبارسنجی فرم #106",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-08-26",
+      "createdAt": "2026-08-22T00:00:00Z"
+    },
+    {
+      "id": 107,
+      "title": "مشکل در فیلتر لیست #107",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-07-13",
+      "createdAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": 108,
+      "title": "بهبود عملکرد جدول #108",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 109,
+      "title": "خطا در بارگذاری پروفایل #109",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-07-10",
+      "createdAt": "2026-07-06T00:00:00Z"
+    },
+    {
+      "id": 110,
+      "title": "بهبود صفحه داشبورد #110",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-09-11",
+      "createdAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": 111,
+      "title": "خطا در بارگذاری پروفایل #111",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": 112,
+      "title": "کندی جستجوی کاربران #112",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "رضا",
+      "dueDate": "2026-09-12",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 113,
+      "title": "کندی جستجوی کاربران #113",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-09-16",
+      "createdAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": 114,
+      "title": "خطا در مسیریابی #114",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 115,
+      "title": "عدم بروزرسانی اعلان‌ها #115",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-08-07",
+      "createdAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": 116,
+      "title": "خطای اعتبارسنجی فرم #116",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 117,
+      "title": "بهبود صفحه داشبورد #117",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-09-02",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 118,
+      "title": "خطا در مسیریابی #118",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-07-11",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 119,
+      "title": "خطا در مسیریابی #119",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-16",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 120,
+      "title": "عدم نمایش صحیح دکمه ورود #120",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-10",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 121,
+      "title": "مشکل در نمایش موبایل #121",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": 122,
+      "title": "مشکل در نمایش موبایل #122",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "علی",
+      "dueDate": "2026-08-24",
+      "createdAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": 123,
+      "title": "مشکل در نمایش موبایل #123",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-09-07",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 124,
+      "title": "عدم نمایش صحیح دکمه ورود #124",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-19",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 125,
+      "title": "خطا در بارگذاری پروفایل #125",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "حسین",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-20T00:00:00Z"
+    },
+    {
+      "id": 126,
+      "title": "مشکل در فیلتر لیست #126",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-07",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 127,
+      "title": "مشکل در فیلتر لیست #127",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-16",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 128,
+      "title": "بهبود عملکرد جدول #128",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": 129,
+      "title": "بهبود صفحه داشبورد #129",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": 130,
+      "title": "خطا در بارگذاری پروفایل #130",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-09-12",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 131,
+      "title": "عدم بروزرسانی اعلان‌ها #131",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-02",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 132,
+      "title": "عدم نمایش صحیح دکمه ورود #132",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-07-13",
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": 133,
+      "title": "کندی جستجوی کاربران #133",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": 134,
+      "title": "مشکل در نمایش موبایل #134",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-27",
+      "createdAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": 135,
+      "title": "بهبود صفحه داشبورد #135",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-09-11",
+      "createdAt": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 136,
+      "title": "عدم نمایش صحیح دکمه ورود #136",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-10",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 137,
+      "title": "خطای اعتبارسنجی فرم #137",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-24",
+      "createdAt": "2026-08-14T00:00:00Z"
+    },
+    {
+      "id": 138,
+      "title": "کندی جستجوی کاربران #138",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-29",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 139,
+      "title": "عدم بروزرسانی اعلان‌ها #139",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-22",
+      "createdAt": "2026-08-11T00:00:00Z"
+    },
+    {
+      "id": 140,
+      "title": "مشکل در نمایش موبایل #140",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-18",
+      "createdAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": 141,
+      "title": "خطای اعتبارسنجی فرم #141",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 142,
+      "title": "کندی جستجوی کاربران #142",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "مریم",
+      "dueDate": "2026-07-22",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 143,
+      "title": "کندی جستجوی کاربران #143",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-07-29",
+      "createdAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": 144,
+      "title": "مشکل در فیلتر لیست #144",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "حسین",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "id": 145,
+      "title": "مشکل در نمایش موبایل #145",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-07-23",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 146,
+      "title": "مشکل در نمایش موبایل #146",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "نگار",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": 147,
+      "title": "خطا در مسیریابی #147",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": 148,
+      "title": "مشکل در نمایش موبایل #148",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-22",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 149,
+      "title": "بهبود عملکرد جدول #149",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-19T00:00:00Z"
+    },
+    {
+      "id": 150,
+      "title": "خطا در مسیریابی #150",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-19T00:00:00Z"
+    },
+    {
+      "id": 151,
+      "title": "بهبود صفحه داشبورد #151",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-03",
+      "createdAt": "2026-07-26T00:00:00Z"
+    },
+    {
+      "id": 152,
+      "title": "مشکل در فیلتر لیست #152",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-08-12",
+      "createdAt": "2026-08-11T00:00:00Z"
+    },
+    {
+      "id": 153,
+      "title": "عدم نمایش صحیح دکمه ورود #153",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-09-14",
+      "createdAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": 154,
+      "title": "بهبود صفحه داشبورد #154",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-09-17",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 155,
+      "title": "خطای اعتبارسنجی فرم #155",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "امیر",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 156,
+      "title": "عدم نمایش صحیح دکمه ورود #156",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "علی",
+      "dueDate": "2026-09-13",
+      "createdAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": 157,
+      "title": "عدم بروزرسانی اعلان‌ها #157",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-11",
+      "createdAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": 158,
+      "title": "کندی جستجوی کاربران #158",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-08-23",
+      "createdAt": "2026-08-11T00:00:00Z"
+    },
+    {
+      "id": 159,
+      "title": "عدم بروزرسانی اعلان‌ها #159",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-09-12",
+      "createdAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": 160,
+      "title": "کندی جستجوی کاربران #160",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": 161,
+      "title": "کندی جستجوی کاربران #161",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-08-03",
+      "createdAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": 162,
+      "title": "بهبود عملکرد جدول #162",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 163,
+      "title": "مشکل در نمایش موبایل #163",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-08-09T00:00:00Z"
+    },
+    {
+      "id": 164,
+      "title": "خطای اعتبارسنجی فرم #164",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-08",
+      "createdAt": "2026-07-13T00:00:00Z"
+    },
+    {
+      "id": 165,
+      "title": "خطا در بارگذاری پروفایل #165",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-26",
+      "createdAt": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 166,
+      "title": "مشکل در فیلتر لیست #166",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-04",
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": 167,
+      "title": "خطای اعتبارسنجی فرم #167",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "رضا",
+      "dueDate": "2026-07-13",
+      "createdAt": "2026-07-04T00:00:00Z"
+    },
+    {
+      "id": 168,
+      "title": "مشکل در نمایش موبایل #168",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-29",
+      "createdAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": 169,
+      "title": "مشکل در نمایش موبایل #169",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-08-09T00:00:00Z"
+    },
+    {
+      "id": 170,
+      "title": "عدم نمایش صحیح دکمه ورود #170",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-09-02",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 171,
+      "title": "مشکل در فیلتر لیست #171",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-22",
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": 172,
+      "title": "مشکل در نمایش موبایل #172",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-07-30",
+      "createdAt": "2026-07-06T00:00:00Z"
+    },
+    {
+      "id": 173,
+      "title": "عدم بروزرسانی اعلان‌ها #173",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-07-23",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 174,
+      "title": "عدم نمایش صحیح دکمه ورود #174",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "علی",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 175,
+      "title": "مشکل در نمایش موبایل #175",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "سارا",
+      "dueDate": "2026-08-24",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 176,
+      "title": "بهبود عملکرد جدول #176",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": 177,
+      "title": "بهبود صفحه داشبورد #177",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-26",
+      "createdAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": 178,
+      "title": "مشکل در فیلتر لیست #178",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-09-01",
+      "createdAt": "2026-08-08T00:00:00Z"
+    },
+    {
+      "id": 179,
+      "title": "بهبود عملکرد جدول #179",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "id": 180,
+      "title": "خطای اعتبارسنجی فرم #180",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-25T00:00:00Z"
+    },
+    {
+      "id": 181,
+      "title": "بهبود صفحه داشبورد #181",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": 182,
+      "title": "خطای اعتبارسنجی فرم #182",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-08-17",
+      "createdAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": 183,
+      "title": "خطا در بارگذاری پروفایل #183",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-01",
+      "createdAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": 184,
+      "title": "بهبود صفحه داشبورد #184",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-09-08",
+      "createdAt": "2026-08-14T00:00:00Z"
+    },
+    {
+      "id": 185,
+      "title": "کندی جستجوی کاربران #185",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-20",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 186,
+      "title": "عدم بروزرسانی اعلان‌ها #186",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-08-04",
+      "createdAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": 187,
+      "title": "خطا در بارگذاری پروفایل #187",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-08-03",
+      "createdAt": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": 188,
+      "title": "خطا در بارگذاری پروفایل #188",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-26",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 189,
+      "title": "خطا در بارگذاری پروفایل #189",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "حسین",
+      "dueDate": "2026-08-22",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 190,
+      "title": "عدم بروزرسانی اعلان‌ها #190",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-03",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 191,
+      "title": "عدم نمایش صحیح دکمه ورود #191",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "حسین",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": 192,
+      "title": "بهبود صفحه داشبورد #192",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "رضا",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 193,
+      "title": "خطای اعتبارسنجی فرم #193",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "حسین",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-07-31T00:00:00Z"
+    },
+    {
+      "id": 194,
+      "title": "بهبود صفحه داشبورد #194",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-06T00:00:00Z"
+    },
+    {
+      "id": 195,
+      "title": "کندی جستجوی کاربران #195",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-09-18",
+      "createdAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 196,
+      "title": "خطا در مسیریابی #196",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-27",
+      "createdAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": 197,
+      "title": "عدم نمایش صحیح دکمه ورود #197",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "علی",
+      "dueDate": "2026-09-01",
+      "createdAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": 198,
+      "title": "خطای اعتبارسنجی فرم #198",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-04",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 199,
+      "title": "بهبود صفحه داشبورد #199",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-08-04",
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": 200,
+      "title": "خطا در مسیریابی #200",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 201,
+      "title": "مشکل در فیلتر لیست #201",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-09",
+      "createdAt": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 202,
+      "title": "خطا در مسیریابی #202",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-13",
+      "createdAt": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": 203,
+      "title": "عدم بروزرسانی اعلان‌ها #203",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-09-22",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 204,
+      "title": "خطا در بارگذاری پروفایل #204",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": 205,
+      "title": "عدم بروزرسانی اعلان‌ها #205",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-11",
+      "createdAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": 206,
+      "title": "خطای اعتبارسنجی فرم #206",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": 207,
+      "title": "خطای اعتبارسنجی فرم #207",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-04",
+      "createdAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": 208,
+      "title": "بهبود صفحه داشبورد #208",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-06",
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": 209,
+      "title": "خطا در بارگذاری پروفایل #209",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-15",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 210,
+      "title": "خطا در بارگذاری پروفایل #210",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-07-08",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 211,
+      "title": "خطای اعتبارسنجی فرم #211",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-09-04",
+      "createdAt": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": 212,
+      "title": "خطا در مسیریابی #212",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "علی",
+      "dueDate": "2026-09-11",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 213,
+      "title": "عدم بروزرسانی اعلان‌ها #213",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 214,
+      "title": "مشکل در فیلتر لیست #214",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "علی",
+      "dueDate": "2026-07-16",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 215,
+      "title": "مشکل در نمایش موبایل #215",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "محمد",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-19T00:00:00Z"
+    },
+    {
+      "id": 216,
+      "title": "مشکل در فیلتر لیست #216",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-31",
+      "createdAt": "2026-08-13T00:00:00Z"
+    },
+    {
+      "id": 217,
+      "title": "بهبود عملکرد جدول #217",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "مریم",
+      "dueDate": "2026-09-07",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 218,
+      "title": "عدم نمایش صحیح دکمه ورود #218",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-08-09T00:00:00Z"
+    },
+    {
+      "id": 219,
+      "title": "مشکل در نمایش موبایل #219",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 220,
+      "title": "بهبود صفحه داشبورد #220",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-07-25",
+      "createdAt": "2026-07-23T00:00:00Z"
+    },
+    {
+      "id": 221,
+      "title": "عدم نمایش صحیح دکمه ورود #221",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-09-22",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 222,
+      "title": "بهبود عملکرد جدول #222",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "امیر",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-23T00:00:00Z"
+    },
+    {
+      "id": 223,
+      "title": "خطا در بارگذاری پروفایل #223",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-08-21",
+      "createdAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "id": 224,
+      "title": "عدم بروزرسانی اعلان‌ها #224",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-09-18",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 225,
+      "title": "مشکل در نمایش موبایل #225",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-21",
+      "createdAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 226,
+      "title": "کندی جستجوی کاربران #226",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-07",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 227,
+      "title": "خطا در بارگذاری پروفایل #227",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 228,
+      "title": "عدم نمایش صحیح دکمه ورود #228",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-08-01",
+      "createdAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": 229,
+      "title": "خطای اعتبارسنجی فرم #229",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": 230,
+      "title": "بهبود عملکرد جدول #230",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-10",
+      "createdAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": 231,
+      "title": "عدم بروزرسانی اعلان‌ها #231",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-15",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 232,
+      "title": "خطای اعتبارسنجی فرم #232",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "علی",
+      "dueDate": "2026-07-23",
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 233,
+      "title": "خطای اعتبارسنجی فرم #233",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-07-23",
+      "createdAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": 234,
+      "title": "عدم بروزرسانی اعلان‌ها #234",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-08-07",
+      "createdAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": 235,
+      "title": "بهبود صفحه داشبورد #235",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "رضا",
+      "dueDate": "2026-08-04",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 236,
+      "title": "بهبود صفحه داشبورد #236",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-07-20",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 237,
+      "title": "بهبود عملکرد جدول #237",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "امیر",
+      "dueDate": "2026-08-19",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 238,
+      "title": "بهبود صفحه داشبورد #238",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-07",
+      "createdAt": "2026-07-19T00:00:00Z"
+    },
+    {
+      "id": 239,
+      "title": "خطای اعتبارسنجی فرم #239",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-08-03",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 240,
+      "title": "خطا در بارگذاری پروفایل #240",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-09-05",
+      "createdAt": "2026-08-17T00:00:00Z"
+    },
+    {
+      "id": 241,
+      "title": "مشکل در فیلتر لیست #241",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-08-27",
+      "createdAt": "2026-08-08T00:00:00Z"
+    },
+    {
+      "id": 242,
+      "title": "عدم بروزرسانی اعلان‌ها #242",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-07-21",
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": 243,
+      "title": "مشکل در نمایش موبایل #243",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-07-18",
+      "createdAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": 244,
+      "title": "خطای اعتبارسنجی فرم #244",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "نگار",
+      "dueDate": "2026-08-06",
+      "createdAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": 245,
+      "title": "خطا در مسیریابی #245",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-07-13",
+      "createdAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": 246,
+      "title": "مشکل در فیلتر لیست #246",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-01",
+      "createdAt": "2026-08-17T00:00:00Z"
+    },
+    {
+      "id": 247,
+      "title": "مشکل در نمایش موبایل #247",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-23",
+      "createdAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": 248,
+      "title": "مشکل در فیلتر لیست #248",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-06T00:00:00Z"
+    },
+    {
+      "id": 249,
+      "title": "عدم بروزرسانی اعلان‌ها #249",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-07",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 250,
+      "title": "بهبود صفحه داشبورد #250",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-09-29",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 251,
+      "title": "عدم بروزرسانی اعلان‌ها #251",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 252,
+      "title": "خطای اعتبارسنجی فرم #252",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "حسین",
+      "dueDate": "2026-08-19",
+      "createdAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": 253,
+      "title": "عدم نمایش صحیح دکمه ورود #253",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-19",
+      "createdAt": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": 254,
+      "title": "خطا در بارگذاری پروفایل #254",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "علی",
+      "dueDate": "2026-07-25",
+      "createdAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": 255,
+      "title": "مشکل در نمایش موبایل #255",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-11",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 256,
+      "title": "مشکل در نمایش موبایل #256",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-31",
+      "createdAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": 257,
+      "title": "مشکل در نمایش موبایل #257",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-09-14",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 258,
+      "title": "کندی جستجوی کاربران #258",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-09-09",
+      "createdAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": 259,
+      "title": "خطا در بارگذاری پروفایل #259",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "نگار",
+      "dueDate": "2026-07-21",
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 260,
+      "title": "مشکل در نمایش موبایل #260",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "رضا",
+      "dueDate": "2026-07-21",
+      "createdAt": "2026-07-13T00:00:00Z"
+    },
+    {
+      "id": 261,
+      "title": "مشکل در فیلتر لیست #261",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-09-09",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 262,
+      "title": "کندی جستجوی کاربران #262",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-15",
+      "createdAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": 263,
+      "title": "مشکل در فیلتر لیست #263",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "حسین",
+      "dueDate": "2026-08-02",
+      "createdAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": 264,
+      "title": "مشکل در فیلتر لیست #264",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": 265,
+      "title": "عدم نمایش صحیح دکمه ورود #265",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": 266,
+      "title": "عدم نمایش صحیح دکمه ورود #266",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-16",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 267,
+      "title": "خطا در بارگذاری پروفایل #267",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": 268,
+      "title": "کندی جستجوی کاربران #268",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-07-11",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 269,
+      "title": "مشکل در فیلتر لیست #269",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-20",
+      "createdAt": "2026-07-26T00:00:00Z"
+    },
+    {
+      "id": 270,
+      "title": "مشکل در فیلتر لیست #270",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": 271,
+      "title": "بهبود صفحه داشبورد #271",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-08-08",
+      "createdAt": "2026-07-20T00:00:00Z"
+    },
+    {
+      "id": 272,
+      "title": "مشکل در فیلتر لیست #272",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 273,
+      "title": "بهبود عملکرد جدول #273",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-08",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 274,
+      "title": "عدم بروزرسانی اعلان‌ها #274",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-27",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 275,
+      "title": "خطا در مسیریابی #275",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-23T00:00:00Z"
+    },
+    {
+      "id": 276,
+      "title": "بهبود عملکرد جدول #276",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-13",
+      "createdAt": "2026-07-06T00:00:00Z"
+    },
+    {
+      "id": 277,
+      "title": "کندی جستجوی کاربران #277",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-07-17",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 278,
+      "title": "بهبود صفحه داشبورد #278",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-20",
+      "createdAt": "2026-08-09T00:00:00Z"
+    },
+    {
+      "id": 279,
+      "title": "عدم نمایش صحیح دکمه ورود #279",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-25",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 280,
+      "title": "خطا در مسیریابی #280",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-07",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 281,
+      "title": "خطای اعتبارسنجی فرم #281",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-07-11",
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 282,
+      "title": "بهبود صفحه داشبورد #282",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-04",
+      "createdAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": 283,
+      "title": "مشکل در فیلتر لیست #283",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "سارا",
+      "dueDate": "2026-08-29",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 284,
+      "title": "عدم نمایش صحیح دکمه ورود #284",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-10",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 285,
+      "title": "بهبود صفحه داشبورد #285",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-07",
+      "createdAt": "2026-08-13T00:00:00Z"
+    },
+    {
+      "id": 286,
+      "title": "خطا در بارگذاری پروفایل #286",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 287,
+      "title": "خطا در بارگذاری پروفایل #287",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 288,
+      "title": "عدم نمایش صحیح دکمه ورود #288",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "رضا",
+      "dueDate": "2026-09-15",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 289,
+      "title": "مشکل در فیلتر لیست #289",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "مریم",
+      "dueDate": "2026-08-18",
+      "createdAt": "2026-07-20T00:00:00Z"
+    },
+    {
+      "id": 290,
+      "title": "خطای اعتبارسنجی فرم #290",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 291,
+      "title": "خطا در بارگذاری پروفایل #291",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "سارا",
+      "dueDate": "2026-08-10",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 292,
+      "title": "بهبود صفحه داشبورد #292",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": 293,
+      "title": "عدم نمایش صحیح دکمه ورود #293",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "محمد",
+      "dueDate": "2026-09-07",
+      "createdAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": 294,
+      "title": "کندی جستجوی کاربران #294",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-23",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 295,
+      "title": "عدم بروزرسانی اعلان‌ها #295",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-08-17",
+      "createdAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": 296,
+      "title": "خطا در مسیریابی #296",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-16",
+      "createdAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": 297,
+      "title": "عدم نمایش صحیح دکمه ورود #297",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-24",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 298,
+      "title": "خطای اعتبارسنجی فرم #298",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 299,
+      "title": "بهبود عملکرد جدول #299",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-21",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 300,
+      "title": "خطا در مسیریابی #300",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-17",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 301,
+      "title": "خطای اعتبارسنجی فرم #301",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-25T00:00:00Z"
+    },
+    {
+      "id": 302,
+      "title": "مشکل در نمایش موبایل #302",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-02",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 303,
+      "title": "بهبود صفحه داشبورد #303",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-07-21",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 304,
+      "title": "مشکل در نمایش موبایل #304",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-07-22",
+      "createdAt": "2026-07-05T00:00:00Z"
+    },
+    {
+      "id": 305,
+      "title": "خطا در مسیریابی #305",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-09-01",
+      "createdAt": "2026-08-08T00:00:00Z"
+    },
+    {
+      "id": 306,
+      "title": "مشکل در نمایش موبایل #306",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 307,
+      "title": "کندی جستجوی کاربران #307",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-08-14T00:00:00Z"
+    },
+    {
+      "id": 308,
+      "title": "مشکل در نمایش موبایل #308",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "رضا",
+      "dueDate": "2026-09-01",
+      "createdAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 309,
+      "title": "خطا در بارگذاری پروفایل #309",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-29",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 310,
+      "title": "بهبود عملکرد جدول #310",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-24",
+      "createdAt": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": 311,
+      "title": "بهبود عملکرد جدول #311",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 312,
+      "title": "خطا در مسیریابی #312",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-19",
+      "createdAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": 313,
+      "title": "کندی جستجوی کاربران #313",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-07-19",
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": 314,
+      "title": "بهبود عملکرد جدول #314",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-08",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 315,
+      "title": "مشکل در نمایش موبایل #315",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "حسین",
+      "dueDate": "2026-07-18",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 316,
+      "title": "خطای اعتبارسنجی فرم #316",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "نگار",
+      "dueDate": "2026-09-02",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 317,
+      "title": "خطای اعتبارسنجی فرم #317",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": 318,
+      "title": "خطا در بارگذاری پروفایل #318",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-10",
+      "createdAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 319,
+      "title": "مشکل در نمایش موبایل #319",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-09",
+      "createdAt": "2026-08-22T00:00:00Z"
+    },
+    {
+      "id": 320,
+      "title": "عدم نمایش صحیح دکمه ورود #320",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-07-17",
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 321,
+      "title": "کندی جستجوی کاربران #321",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-07-29",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 322,
+      "title": "مشکل در نمایش موبایل #322",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-07-15",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 323,
+      "title": "خطا در بارگذاری پروفایل #323",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-09-02",
+      "createdAt": "2026-08-13T00:00:00Z"
+    },
+    {
+      "id": 324,
+      "title": "خطای اعتبارسنجی فرم #324",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-07-29",
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": 325,
+      "title": "مشکل در نمایش موبایل #325",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-07-22",
+      "createdAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": 326,
+      "title": "عدم نمایش صحیح دکمه ورود #326",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "رضا",
+      "dueDate": "2026-08-22",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 327,
+      "title": "کندی جستجوی کاربران #327",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "نگار",
+      "dueDate": "2026-09-12",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 328,
+      "title": "خطای اعتبارسنجی فرم #328",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 329,
+      "title": "مشکل در فیلتر لیست #329",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-13",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 330,
+      "title": "خطا در مسیریابی #330",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 331,
+      "title": "مشکل در فیلتر لیست #331",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-07-31T00:00:00Z"
+    },
+    {
+      "id": 332,
+      "title": "کندی جستجوی کاربران #332",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "نگار",
+      "dueDate": "2026-09-15",
+      "createdAt": "2026-08-17T00:00:00Z"
+    },
+    {
+      "id": 333,
+      "title": "خطا در بارگذاری پروفایل #333",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-08-26",
+      "createdAt": "2026-07-31T00:00:00Z"
+    },
+    {
+      "id": 334,
+      "title": "خطا در بارگذاری پروفایل #334",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": 335,
+      "title": "کندی جستجوی کاربران #335",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "نگار",
+      "dueDate": "2026-09-09",
+      "createdAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": 336,
+      "title": "خطا در مسیریابی #336",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-03",
+      "createdAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": 337,
+      "title": "خطا در بارگذاری پروفایل #337",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-13T00:00:00Z"
+    },
+    {
+      "id": 338,
+      "title": "کندی جستجوی کاربران #338",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-19",
+      "createdAt": "2026-07-20T00:00:00Z"
+    },
+    {
+      "id": 339,
+      "title": "بهبود صفحه داشبورد #339",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "مریم",
+      "dueDate": "2026-09-29",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 340,
+      "title": "خطا در مسیریابی #340",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "رضا",
+      "dueDate": "2026-07-25",
+      "createdAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": 341,
+      "title": "بهبود عملکرد جدول #341",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-08-27",
+      "createdAt": "2026-07-31T00:00:00Z"
+    },
+    {
+      "id": 342,
+      "title": "کندی جستجوی کاربران #342",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-15",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 343,
+      "title": "مشکل در فیلتر لیست #343",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-09-08",
+      "createdAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": 344,
+      "title": "خطا در بارگذاری پروفایل #344",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-09-10",
+      "createdAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": 345,
+      "title": "خطا در بارگذاری پروفایل #345",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-01",
+      "createdAt": "2026-07-04T00:00:00Z"
+    },
+    {
+      "id": 346,
+      "title": "خطا در بارگذاری پروفایل #346",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "نگار",
+      "dueDate": "2026-07-13",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 347,
+      "title": "بهبود صفحه داشبورد #347",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-15",
+      "createdAt": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": 348,
+      "title": "عدم نمایش صحیح دکمه ورود #348",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-11",
+      "createdAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": 349,
+      "title": "عدم بروزرسانی اعلان‌ها #349",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-07-15",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 350,
+      "title": "عدم بروزرسانی اعلان‌ها #350",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-07-30",
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": 351,
+      "title": "کندی جستجوی کاربران #351",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-08-21",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 352,
+      "title": "عدم نمایش صحیح دکمه ورود #352",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-07-29",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 353,
+      "title": "بهبود صفحه داشبورد #353",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-15",
+      "createdAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": 354,
+      "title": "بهبود صفحه داشبورد #354",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-07-18",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 355,
+      "title": "خطا در مسیریابی #355",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-26T00:00:00Z"
+    },
+    {
+      "id": 356,
+      "title": "بهبود صفحه داشبورد #356",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": 357,
+      "title": "خطای اعتبارسنجی فرم #357",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-31",
+      "createdAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": 358,
+      "title": "بهبود عملکرد جدول #358",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-07-11",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 359,
+      "title": "عدم بروزرسانی اعلان‌ها #359",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-07-30",
+      "createdAt": "2026-07-13T00:00:00Z"
+    },
+    {
+      "id": 360,
+      "title": "مشکل در فیلتر لیست #360",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-07-25",
+      "createdAt": "2026-07-06T00:00:00Z"
+    },
+    {
+      "id": 361,
+      "title": "عدم بروزرسانی اعلان‌ها #361",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "امیر",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 362,
+      "title": "خطای اعتبارسنجی فرم #362",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "حسین",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": 363,
+      "title": "بهبود صفحه داشبورد #363",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 364,
+      "title": "مشکل در فیلتر لیست #364",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-03",
+      "createdAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": 365,
+      "title": "بهبود صفحه داشبورد #365",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-17",
+      "createdAt": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": 366,
+      "title": "خطا در مسیریابی #366",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-16",
+      "createdAt": "2026-07-23T00:00:00Z"
+    },
+    {
+      "id": 367,
+      "title": "عدم نمایش صحیح دکمه ورود #367",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": 368,
+      "title": "خطا در مسیریابی #368",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-18",
+      "createdAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": 369,
+      "title": "عدم نمایش صحیح دکمه ورود #369",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-06",
+      "createdAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": 370,
+      "title": "عدم نمایش صحیح دکمه ورود #370",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-20",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 371,
+      "title": "خطا در مسیریابی #371",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-05",
+      "createdAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 372,
+      "title": "خطا در مسیریابی #372",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-10",
+      "createdAt": "2026-08-13T00:00:00Z"
+    },
+    {
+      "id": 373,
+      "title": "عدم نمایش صحیح دکمه ورود #373",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-09-09",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 374,
+      "title": "خطا در بارگذاری پروفایل #374",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 375,
+      "title": "عدم نمایش صحیح دکمه ورود #375",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-09-07",
+      "createdAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": 376,
+      "title": "بهبود عملکرد جدول #376",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "امیر",
+      "dueDate": "2026-08-07",
+      "createdAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": 377,
+      "title": "خطا در بارگذاری پروفایل #377",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-16T00:00:00Z"
+    },
+    {
+      "id": 378,
+      "title": "مشکل در فیلتر لیست #378",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-22T00:00:00Z"
+    },
+    {
+      "id": 379,
+      "title": "کندی جستجوی کاربران #379",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-09-18",
+      "createdAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": 380,
+      "title": "کندی جستجوی کاربران #380",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-13",
+      "createdAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": 381,
+      "title": "خطا در بارگذاری پروفایل #381",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-13",
+      "createdAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": 382,
+      "title": "کندی جستجوی کاربران #382",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "امیر",
+      "dueDate": "2026-08-21",
+      "createdAt": "2026-08-17T00:00:00Z"
+    },
+    {
+      "id": 383,
+      "title": "مشکل در نمایش موبایل #383",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-19",
+      "createdAt": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": 384,
+      "title": "عدم بروزرسانی اعلان‌ها #384",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": 385,
+      "title": "مشکل در فیلتر لیست #385",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": 386,
+      "title": "مشکل در نمایش موبایل #386",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-26T00:00:00Z"
+    },
+    {
+      "id": 387,
+      "title": "خطا در بارگذاری پروفایل #387",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-08-17T00:00:00Z"
+    },
+    {
+      "id": 388,
+      "title": "عدم بروزرسانی اعلان‌ها #388",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "علی",
+      "dueDate": "2026-08-31",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 389,
+      "title": "بهبود صفحه داشبورد #389",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": 390,
+      "title": "خطا در مسیریابی #390",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-07-30",
+      "createdAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": 391,
+      "title": "کندی جستجوی کاربران #391",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-09-13",
+      "createdAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": 392,
+      "title": "عدم بروزرسانی اعلان‌ها #392",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": 393,
+      "title": "خطای اعتبارسنجی فرم #393",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "علی",
+      "dueDate": "2026-09-16",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 394,
+      "title": "کندی جستجوی کاربران #394",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-08-31",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 395,
+      "title": "کندی جستجوی کاربران #395",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "علی",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-07-31T00:00:00Z"
+    },
+    {
+      "id": 396,
+      "title": "بهبود عملکرد جدول #396",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-09",
+      "createdAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": 397,
+      "title": "عدم نمایش صحیح دکمه ورود #397",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-09-09",
+      "createdAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": 398,
+      "title": "بهبود صفحه داشبورد #398",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-09-07",
+      "createdAt": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 399,
+      "title": "بهبود صفحه داشبورد #399",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-07",
+      "createdAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": 400,
+      "title": "عدم بروزرسانی اعلان‌ها #400",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "نگار",
+      "dueDate": "2026-08-19",
+      "createdAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": 401,
+      "title": "بهبود صفحه داشبورد #401",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-08-02",
+      "createdAt": "2026-07-20T00:00:00Z"
+    },
+    {
+      "id": 402,
+      "title": "خطا در بارگذاری پروفایل #402",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-07-27",
+      "createdAt": "2026-07-13T00:00:00Z"
+    },
+    {
+      "id": 403,
+      "title": "مشکل در فیلتر لیست #403",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-04T00:00:00Z"
+    },
+    {
+      "id": 404,
+      "title": "خطای اعتبارسنجی فرم #404",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-08-10",
+      "createdAt": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": 405,
+      "title": "خطای اعتبارسنجی فرم #405",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 406,
+      "title": "خطای اعتبارسنجی فرم #406",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-09-13",
+      "createdAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": 407,
+      "title": "خطای اعتبارسنجی فرم #407",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-07-20",
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 408,
+      "title": "مشکل در فیلتر لیست #408",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-23",
+      "createdAt": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": 409,
+      "title": "مشکل در فیلتر لیست #409",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-01",
+      "createdAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": 410,
+      "title": "خطا در مسیریابی #410",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-08-08",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 411,
+      "title": "خطای اعتبارسنجی فرم #411",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 412,
+      "title": "مشکل در نمایش موبایل #412",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-19",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 413,
+      "title": "خطای اعتبارسنجی فرم #413",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-07",
+      "createdAt": "2026-08-22T00:00:00Z"
+    },
+    {
+      "id": 414,
+      "title": "عدم بروزرسانی اعلان‌ها #414",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-26",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 415,
+      "title": "خطا در بارگذاری پروفایل #415",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-26",
+      "createdAt": "2026-08-15T00:00:00Z"
+    },
+    {
+      "id": 416,
+      "title": "عدم بروزرسانی اعلان‌ها #416",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "امیر",
+      "dueDate": "2026-08-15",
+      "createdAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": 417,
+      "title": "عدم بروزرسانی اعلان‌ها #417",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-26",
+      "createdAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": 418,
+      "title": "خطای اعتبارسنجی فرم #418",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": 419,
+      "title": "کندی جستجوی کاربران #419",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-08-20",
+      "createdAt": "2026-08-08T00:00:00Z"
+    },
+    {
+      "id": 420,
+      "title": "خطای اعتبارسنجی فرم #420",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-07-30",
+      "createdAt": "2026-07-25T00:00:00Z"
+    },
+    {
+      "id": 421,
+      "title": "خطای اعتبارسنجی فرم #421",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": 422,
+      "title": "خطا در بارگذاری پروفایل #422",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-21",
+      "createdAt": "2026-08-02T00:00:00Z"
+    },
+    {
+      "id": 423,
+      "title": "بهبود عملکرد جدول #423",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-18",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 424,
+      "title": "خطا در مسیریابی #424",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": 425,
+      "title": "خطا در مسیریابی #425",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "علی",
+      "dueDate": "2026-08-27",
+      "createdAt": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": 426,
+      "title": "بهبود عملکرد جدول #426",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 427,
+      "title": "خطای اعتبارسنجی فرم #427",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-27",
+      "createdAt": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": 428,
+      "title": "بهبود صفحه داشبورد #428",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-09-01",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 429,
+      "title": "خطای اعتبارسنجی فرم #429",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-07-20",
+      "createdAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": 430,
+      "title": "خطای اعتبارسنجی فرم #430",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "علی",
+      "dueDate": "2026-07-18",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 431,
+      "title": "مشکل در فیلتر لیست #431",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-09-05",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 432,
+      "title": "مشکل در نمایش موبایل #432",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-07-27",
+      "createdAt": "2026-07-20T00:00:00Z"
+    },
+    {
+      "id": 433,
+      "title": "خطا در مسیریابی #433",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "علی",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": 434,
+      "title": "خطا در مسیریابی #434",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-07-09",
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": 435,
+      "title": "مشکل در فیلتر لیست #435",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-20",
+      "createdAt": "2026-08-17T00:00:00Z"
+    },
+    {
+      "id": 436,
+      "title": "کندی جستجوی کاربران #436",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-07-21",
+      "createdAt": "2026-07-05T00:00:00Z"
+    },
+    {
+      "id": 437,
+      "title": "خطا در بارگذاری پروفایل #437",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": 438,
+      "title": "مشکل در نمایش موبایل #438",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-07-23",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 439,
+      "title": "بهبود صفحه داشبورد #439",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "مریم",
+      "dueDate": "2026-09-05",
+      "createdAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": 440,
+      "title": "بهبود صفحه داشبورد #440",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-07",
+      "createdAt": "2026-07-24T00:00:00Z"
+    },
+    {
+      "id": 441,
+      "title": "بهبود عملکرد جدول #441",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-14",
+      "createdAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": 442,
+      "title": "خطای اعتبارسنجی فرم #442",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-08-14T00:00:00Z"
+    },
+    {
+      "id": 443,
+      "title": "بهبود عملکرد جدول #443",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": 444,
+      "title": "کندی جستجوی کاربران #444",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-07-25T00:00:00Z"
+    },
+    {
+      "id": 445,
+      "title": "عدم بروزرسانی اعلان‌ها #445",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 446,
+      "title": "بهبود صفحه داشبورد #446",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-08-15",
+      "createdAt": "2026-07-25T00:00:00Z"
+    },
+    {
+      "id": 447,
+      "title": "خطا در مسیریابی #447",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-09-03",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 448,
+      "title": "عدم نمایش صحیح دکمه ورود #448",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-17",
+      "createdAt": "2026-07-26T00:00:00Z"
+    },
+    {
+      "id": 449,
+      "title": "خطای اعتبارسنجی فرم #449",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-10",
+      "createdAt": "2026-08-09T00:00:00Z"
+    },
+    {
+      "id": 450,
+      "title": "مشکل در نمایش موبایل #450",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": 451,
+      "title": "عدم نمایش صحیح دکمه ورود #451",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-16",
+      "createdAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": 452,
+      "title": "بهبود صفحه داشبورد #452",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "نگار",
+      "dueDate": "2026-09-09",
+      "createdAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": 453,
+      "title": "کندی جستجوی کاربران #453",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-09-20",
+      "createdAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 454,
+      "title": "مشکل در نمایش موبایل #454",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "علی",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": 455,
+      "title": "بهبود صفحه داشبورد #455",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "حسین",
+      "dueDate": "2026-07-17",
+      "createdAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": 456,
+      "title": "بهبود صفحه داشبورد #456",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-07-19T00:00:00Z"
+    },
+    {
+      "id": 457,
+      "title": "بهبود عملکرد جدول #457",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-08-30",
+      "createdAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": 458,
+      "title": "بهبود عملکرد جدول #458",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "امیر",
+      "dueDate": "2026-07-06",
+      "createdAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": 459,
+      "title": "مشکل در فیلتر لیست #459",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-08",
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 460,
+      "title": "خطای اعتبارسنجی فرم #460",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "رضا",
+      "dueDate": "2026-08-21",
+      "createdAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": 461,
+      "title": "خطا در مسیریابی #461",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-09-12",
+      "createdAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 462,
+      "title": "خطا در مسیریابی #462",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-02",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 463,
+      "title": "خطا در بارگذاری پروفایل #463",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-23",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 464,
+      "title": "خطای اعتبارسنجی فرم #464",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-23T00:00:00Z"
+    },
+    {
+      "id": 465,
+      "title": "عدم بروزرسانی اعلان‌ها #465",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-08-24",
+      "createdAt": "2026-08-22T00:00:00Z"
+    },
+    {
+      "id": 466,
+      "title": "خطا در مسیریابی #466",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-07-21",
+      "createdAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": 467,
+      "title": "مشکل در نمایش موبایل #467",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "رضا",
+      "dueDate": "2026-07-26",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 468,
+      "title": "خطا در بارگذاری پروفایل #468",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "امیر",
+      "dueDate": "2026-08-28",
+      "createdAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": 469,
+      "title": "خطا در مسیریابی #469",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-09",
+      "createdAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": 470,
+      "title": "بهبود عملکرد جدول #470",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "حسین",
+      "dueDate": "2026-09-12",
+      "createdAt": "2026-08-27T00:00:00Z"
+    },
+    {
+      "id": 471,
+      "title": "مشکل در نمایش موبایل #471",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-05",
+      "createdAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": 472,
+      "title": "خطای اعتبارسنجی فرم #472",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "مریم",
+      "dueDate": "2026-09-01",
+      "createdAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": 473,
+      "title": "خطای اعتبارسنجی فرم #473",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "محمد",
+      "dueDate": "2026-08-29",
+      "createdAt": "2026-08-22T00:00:00Z"
+    },
+    {
+      "id": 474,
+      "title": "خطا در بارگذاری پروفایل #474",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "حسین",
+      "dueDate": "2026-08-25",
+      "createdAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": 475,
+      "title": "عدم نمایش صحیح دکمه ورود #475",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "حسین",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": 476,
+      "title": "بهبود صفحه داشبورد #476",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-07-31",
+      "createdAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": 477,
+      "title": "بهبود صفحه داشبورد #477",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-07-28",
+      "createdAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": 478,
+      "title": "عدم نمایش صحیح دکمه ورود #478",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-05",
+      "createdAt": "2026-07-20T00:00:00Z"
+    },
+    {
+      "id": 479,
+      "title": "خطای اعتبارسنجی فرم #479",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-09-19",
+      "createdAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": 480,
+      "title": "خطا در بارگذاری پروفایل #480",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "نگار",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-20T00:00:00Z"
+    },
+    {
+      "id": 481,
+      "title": "بهبود صفحه داشبورد #481",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "امیر",
+      "dueDate": "2026-08-02",
+      "createdAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": 482,
+      "title": "کندی جستجوی کاربران #482",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-07-22",
+      "createdAt": "2026-07-04T00:00:00Z"
+    },
+    {
+      "id": 483,
+      "title": "عدم بروزرسانی اعلان‌ها #483",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "Open",
+      "priority": "Low",
+      "assignee": "علی",
+      "dueDate": "2026-07-27",
+      "createdAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": 484,
+      "title": "مشکل در نمایش موبایل #484",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Done",
+      "priority": "Critical",
+      "assignee": "حسین",
+      "dueDate": "2026-08-09",
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": 485,
+      "title": "عدم نمایش صحیح دکمه ورود #485",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "محمد",
+      "dueDate": "2026-08-06",
+      "createdAt": "2026-07-25T00:00:00Z"
+    },
+    {
+      "id": 486,
+      "title": "کندی جستجوی کاربران #486",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-08-14",
+      "createdAt": "2026-07-30T00:00:00Z"
+    },
+    {
+      "id": 487,
+      "title": "مشکل در نمایش موبایل #487",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "رضا",
+      "dueDate": "2026-07-29",
+      "createdAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": 488,
+      "title": "مشکل در نمایش موبایل #488",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "سارا",
+      "dueDate": "2026-08-17",
+      "createdAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": 489,
+      "title": "کندی جستجوی کاربران #489",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "Done",
+      "priority": "High",
+      "assignee": "نگار",
+      "dueDate": "2026-08-04",
+      "createdAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": 490,
+      "title": "کندی جستجوی کاربران #490",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "Critical",
+      "assignee": "محمد",
+      "dueDate": "2026-08-11",
+      "createdAt": "2026-07-23T00:00:00Z"
+    },
+    {
+      "id": 491,
+      "title": "کندی جستجوی کاربران #491",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "Open",
+      "priority": "Medium",
+      "assignee": "مریم",
+      "dueDate": "2026-08-13",
+      "createdAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": 492,
+      "title": "خطا در بارگذاری پروفایل #492",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "سارا",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": 493,
+      "title": "بهبود صفحه داشبورد #493",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "امیر",
+      "dueDate": "2026-08-20",
+      "createdAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "id": 494,
+      "title": "عدم بروزرسانی اعلان‌ها #494",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Low",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-24",
+      "createdAt": "2026-08-29T00:00:00Z"
+    },
+    {
+      "id": 495,
+      "title": "بهبود صفحه داشبورد #495",
+      "description": "این مشکل توسط تیم پشتیبانی گزارش شده و نیاز به بررسی دارد.",
+      "status": "Open",
+      "priority": "High",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-10",
+      "createdAt": "2026-07-19T00:00:00Z"
+    },
+    {
+      "id": 496,
+      "title": "مشکل در فیلتر لیست #496",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "محمد",
+      "dueDate": "2026-07-24",
+      "createdAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": 497,
+      "title": "مشکل در نمایش موبایل #497",
+      "description": "در برخی شرایط امکان بازتولید خطا وجود دارد.",
+      "status": "In Progress",
+      "priority": "High",
+      "assignee": "سارا",
+      "dueDate": "2026-07-14",
+      "createdAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": 498,
+      "title": "خطای اعتبارسنجی فرم #498",
+      "description": "نیازمند بررسی و اصلاح در رابط کاربری است.",
+      "status": "Done",
+      "priority": "Medium",
+      "assignee": "نرگس",
+      "dueDate": "2026-09-24",
+      "createdAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": 499,
+      "title": "مشکل در نمایش موبایل #499",
+      "description": "رفتار مشاهده‌شده با انتظار محصول مطابقت ندارد.",
+      "status": "In Progress",
+      "priority": "Critical",
+      "assignee": "مریم",
+      "dueDate": "2026-09-06",
+      "createdAt": "2026-08-17T00:00:00Z"
+    },
+    {
+      "id": 500,
+      "title": "بهبود عملکرد جدول #500",
+      "description": "پس از آخرین بروزرسانی مشاهده شده است.",
+      "status": "In Progress",
+      "priority": "Medium",
+      "assignee": "فاطمه",
+      "dueDate": "2026-08-21",
+      "createdAt": "2026-08-02T00:00:00Z"
+    }
+  ]
+}
