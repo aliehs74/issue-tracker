@@ -27,8 +27,12 @@ function buildListParams(query: IssueListQuery): Record<string, string | number>
 function buildSearchWhere(search: string): string | null {
   const trimmed = search.trim();
   if (!trimmed) return null;
+
   return JSON.stringify({
-    or: [{ 'title:contains': trimmed }, { 'description:contains': trimmed }],
+    or: [
+      { title: { contains: trimmed } },
+      { description: { contains: trimmed } },
+    ],
   });
 }
 
@@ -46,7 +50,6 @@ export async function fetchIssues(
     { params }
   );
 
-  // json-server v1 beta returns a wrapped page object when _per_page is set.
   if (Array.isArray(response.data)) {
     return {
       issues: response.data,
