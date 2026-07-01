@@ -1,7 +1,20 @@
-import AppProviders from './providers/AppProviders'
+import { ToastContainer } from 'react-toastify';
+import { AppLayout } from '@/components/layout/AppLayout';
+import RoutesManagements from './RoutesManagements';
 
-function App() {
-  return (<AppProviders />)
+export function App() {
+  return (
+    <AppLayout>
+      <RoutesManagements />
+
+      <ToastContainer
+        position="top-right"
+        autoClose={3500}
+        newestOnTop
+        rtl
+        closeOnClick
+        pauseOnHover
+      />
+    </AppLayout>
+  );
 }
-
-export default App

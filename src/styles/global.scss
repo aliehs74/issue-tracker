@@ -1,0 +1,43 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  background-color: #f7f7fb;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #d3d3e6;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #b8b8d6;
+}
+
+a {
+  color: inherit;
+}
+
+.ltr-field {
+  direction: ltr;
+  text-align: right;
+  unicode-bidi: plaintext;
+}
