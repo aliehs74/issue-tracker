@@ -16,16 +16,16 @@ export const issueFormSchema = z.object({
 export const issueFormResolver: Resolver<IssueFormValues> = (values) => {
   const result = issueFormSchema.safeParse(values);
 
-  if (result.success) {
+  if (result.success)
     return { values: result.data, errors: {} };
-  }
 
   const errors: FieldErrors<IssueFormValues> = {};
   for (const issue of result.error.issues) {
     const field = issue.path[0] as keyof IssueFormValues | undefined;
-    if (field && !errors[field]) {
+
+    if (field && !errors[field])
       errors[field] = { type: issue.code, message: issue.message };
-    }
+
   }
 
   return { values: {}, errors };
