@@ -1,12 +1,7 @@
-import './App.css'
+import AppProviders from './providers/AppProviders'
 
 function App() {
-
-  return (
-
-    <section id="spacer"></section>
-
-  )
+  return (<AppProviders />)
 }
 
 export default App
