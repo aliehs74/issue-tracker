@@ -12,3 +12,15 @@ export type TIssue = {
     createdAt: string;
 };
 
+export type TGetIssuesParams = {
+    page?: number;
+    limit?: number;
+    search?: string;
+    status?: string;
+    priority?: string;
+    assignee?: string;
+    sortBy?: "createdAt" | "dueDate";
+    order?: "asc" | "desc";
+};
+
+export type TIssuePayload = Omit<TIssue, "id" | "createdAt">;
