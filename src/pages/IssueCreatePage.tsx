@@ -30,7 +30,7 @@ export function IssueCreatePage() {
 
     if (created) {
       toast.success(text.TASK_CREATED_TOAST(created.title));
-      navigate(`/issues/${created.id}`);
+      navigate(API_ENDPOINTS.ISSUES);
 
     } else {
       toast.error(text.TASK_CREATE_FAILED_TOAST);

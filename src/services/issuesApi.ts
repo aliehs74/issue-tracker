@@ -87,9 +87,6 @@ async function getNextId(): Promise<number> {
 }
 
 export async function createIssue(draft: IssueDraft): Promise<Issue> {
-  // json-server v1 beta auto-generates a random string id when none is
-  // supplied, which breaks numeric routing/sorting against the rest of the
-  // (numeric-id) dataset. We compute the next sequential id explicitly.
   const nextId = await getNextId();
   const payload: Issue = {
     ...draft,
